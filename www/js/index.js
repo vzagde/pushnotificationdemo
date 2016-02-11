@@ -60,6 +60,7 @@ var app = {
     },
 
     onNotificationGCM: function(e) {
+        alert("Enterd onNotificationGCM : "+e);
         switch( e.event )
         {
             case 'registered':
