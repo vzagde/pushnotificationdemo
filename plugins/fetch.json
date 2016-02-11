@@ -1,0 +1,18 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.phonegap.plugins.PushPlugin": {
+        "source": {
+            "type": "registry",
+            "id": "com.phonegap.plugins.PushPlugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
