@@ -63,6 +63,7 @@ var app = {
         switch( e.event )
         {
             case 'registered':
+                alert('registration Success'+e.regid.length);
                 if ( e.regid.length > 0 )
                 {
                     console.log("Regid " + e.regid);
