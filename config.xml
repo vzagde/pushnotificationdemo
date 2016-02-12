@@ -77,8 +77,6 @@
     <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
-        <plugin name="Notification" value="org.apache.cordova.Notification"/>
-        <uses-permission android:name="android.permission.VIBRATE" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
